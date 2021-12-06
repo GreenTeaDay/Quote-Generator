@@ -14,8 +14,8 @@ let verbsArr = xverbsArr;
 
 function cavepersonquoteMachine () {
   let x = 0;
-   let y = 0;
-      let z = 0;
+  let y = 0;
+  let z = 0;
        x = Math.floor(Math.random() * pronounsArr.length);
        y = Math.floor(Math.random() * verbsArr.length);
        z = Math.floor(Math.random() * nounsArr.length);
