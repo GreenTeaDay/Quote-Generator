@@ -2,7 +2,7 @@
 
 <h2><u>Overview:<u></h1>
 
-Run this program to display quotes. It uses three sections of randomization to format the quote.
+Run this program to display unique quotes from a prophetic caveperson.
 
 <h2> <u>Codecademy:<u> </h2>
 
