@@ -1,4 +1,4 @@
-<h1>Quote-Generator by X. Scott</h1>
+<h1>Quote-Generator by GreenTeaDay/h1>
 
 <h2><u>Overview:<u></h1>
 
